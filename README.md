@@ -1,5 +1,5 @@
 # SLE-diagosis
-##版本一(6/27)  
+## **版本一(6/27)**  
 將SLE的診斷過程初步分成四個項目
 (分別是ANA classification、input patient data、confirm data、dealing with data)  
 功能包含
@@ -15,7 +15,7 @@
 4. output的細節處理
 
 
-##版本二(7/3)
+## **版本二(7/3)**
 After the 06/27 meeting
 將SLE的診斷過程，增加了最後一個步驟，詳細的output，因此現在總共分為五個步驟
 新增的功能包含
