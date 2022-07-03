@@ -2,8 +2,7 @@
 ## **版本一(6/27)**  
 將SLE的診斷過程初步分成四個項目
 (分別是ANA classification、input patient data、confirm data、dealing with data)  
-功能包含
-1. 輸入不論大寫或小寫，都可以成功輸入(upper.())
+功能包含1. 輸入不論大寫或小寫，都可以成功輸入(upper.())
 2. 輸入錯誤值時，可以使程式重新再跑一遍(while 迴圈)
 3. 提供confirm data 步驟，讓輸入者可以確定自己的資料是否正確
 4. 可算出不同臨床科別中最嚴重的項目(max、for、zip函數)
