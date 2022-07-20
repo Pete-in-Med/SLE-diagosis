@@ -26,3 +26,7 @@ After the 06/27 meeting
 4. 比較優美的print 出需驗證的dictionary，這樣可以比較好做閱讀(.pprint())
 5. 在處理各項資料的最大值時，利用迴圈簡化code(for、max、zip)
 6. 增加output數值，包含main cause、missing value，可以使醫師能進行後續的檢查和診斷
+
+## **版本三(7/20)**
+After the (7/4) meeting
+*
