@@ -29,4 +29,6 @@ After the 06/27 meeting
 
 ## **版本三(7/20)**
 After the (7/4) meeting
-*
+* 和版本二相比，再引入了SLEDAI輔助診斷，因此現在已增加為六個步驟
+* 新增的功能包含
+
