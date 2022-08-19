@@ -44,3 +44,20 @@ After the (7/4) meeting
   1. 輸出的部分增加(包含總分、main cause占比、reference)
   2. 多增加註解來增進使用體驗(NI stands for no information)
   3. ANA value部分，改變敘述，"診斷還不足以是SLE"
+
+
+## **版本四(8/19)**
+After the (7/21) meeting
+* 新增的功能包含
+>功能的新增
+ 1. 如果病人已經被診斷為SLE，便可直接進行SLEDAI的判定；反之，若還沒被診斷為SLE，那麼就根據前面判斷的結果，確定是否進行SLEDAI的評估
+>特殊情況的因應
+ 1. 修正之前有關Renal biopsy的bug
+ 2. 如果遇到輸入者在第一次輸入就輸入b(也就是back)的狀況，本系統已可完善解決，並提醒輸入者
+ 3. 如果碰到全部總分為0，也就是全部negative的狀況，系統已可以處理這個狀況(之前會因為佔比公式的總分在分母，而此狀況中，分母為0，而造成了error的情形)
+>輸出的改善
+  1. 將最高分佔比項目由main cause轉換為the highest proportion of the score
+  2. 印出clinical data和immunology的個別分數
+  3. 印出SLEDAI的參考資料
+  4. 解決dictionary會自動排序的問題
+ 
