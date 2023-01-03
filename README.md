@@ -61,3 +61,8 @@ After the (7/21) meeting
   3. 印出SLEDAI的參考資料
   4. 解決dictionary會自動排序的問題
  
+
+
+## **版本五**
+1. 已和宏杰整合，負責與使用者互動介面部分
+2. 打包packages，簡化程式碼
